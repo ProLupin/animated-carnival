@@ -1,0 +1,39 @@
+.btn1{
+    background-color: darkcyan;
+    color:rgb(234, 239, 240);
+    border-style: dashed;
+    border-color: rgb(231, 239, 237);
+    border-radius: 20px;
+    border-width:5px;
+    width:300px;
+    font-size:25px;
+    font-family:monospace;
+}
+body{
+    background-size:cover;
+}
+.heading{
+    font-size:100px;
+    font-family: 'Rubik Iso', cursive;
+    border-radius:25px;
+
+}
+.heading1
+{
+font-size: 50px;
+width: 60%;
+margin: 0px;
+font-family: 'Rubik Iso', cursive;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+   background-size: cover; 
+}
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius: 10px;
+}
